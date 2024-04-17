@@ -2,7 +2,8 @@
 
 This data  contains house sale prices affecting house prices in the USA (Baton Rouge, Louisiana).
 
-Contains:
+Contains: <br>
+
 11.	Data exploration  <br>
 22.	Probability, probability distributions and confidence intervals. <br>
 33.	Contingency tables and hypothesis tests. <br>
